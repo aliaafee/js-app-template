@@ -1,6 +1,8 @@
 # js-app-template
 Responsive Javascript App Template. Uses pure javascript. Build using browserify.
 
+![Screenshot](screenshots/screenshot.jpg?raw=true)
+
 TODO: Document the controls.
 
 # Setup
